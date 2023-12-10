@@ -1,7 +1,7 @@
 # Exercise 4
-The task was to create a sequence of wide cords from ascending and descending Gm and DM scales.
+The task was to create a sequence of wide chords from ascending and descending Gm and DM scales.
 
-## Cords
+## Chords
 #### Gm:
  - t(5/3)	III(6/4)	VI(7)	II(6/4)	V(6/5)	VI(4/3) 	IV(9-7)		t(6/4)
  - t(6/4) 	III(6/4)	VII(7)	t(5/3)	IV(6/4)		VI(6/3)		V(6/4)		t(5/3)
